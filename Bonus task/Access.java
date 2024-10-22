@@ -1,0 +1,5 @@
+
+
+enum Access{
+    InStock, NotAvailable;
+}
