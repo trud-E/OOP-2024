@@ -1,0 +1,3 @@
+interface toDrive{
+    void drive();
+}
